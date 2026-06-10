@@ -6,7 +6,7 @@ This is the foundations for all of my client websites.
 
 - Terraform
 - Digital Ocean + DO Spaces
-- DOcker
+- Docker
 - Nginx
 - PostgreSQL
 - NextJS
